@@ -1,0 +1,6 @@
+# Copy this file to .dev.vars for local testing with `npm run dev`.
+# .dev.vars is git-ignored — never commit real values.
+SPOTIFY_CLIENT_ID=
+SPOTIFY_CLIENT_SECRET=
+SPOTIFY_REFRESH_TOKEN=
+API_KEY=

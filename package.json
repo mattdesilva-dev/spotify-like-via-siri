@@ -1,0 +1,13 @@
+{
+  "name": "spotify-like-current",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "login": "node scripts/login.mjs",
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4"
+  }
+}
